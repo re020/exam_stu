@@ -1,0 +1,22 @@
+export default {
+  'examandfinishexam.login.userName': '賬戶',
+  'examandfinishexam.login.password': '密碼',
+  'examandfinishexam.login.message-invalid-credentials': '賬戶或密碼錯誤（admin/ant.design）',
+  'examandfinishexam.login.message-invalid-verification-code': '驗證碼錯誤',
+  'examandfinishexam.login.tab-login-credentials': '賬戶密碼登錄',
+  'examandfinishexam.login.tab-login-mobile': '手機號登錄',
+  'examandfinishexam.login.remember-me': '自動登錄',
+  'examandfinishexam.login.forgot-password': '忘記密碼',
+  'examandfinishexam.login.sign-in-with': '其他登錄方式',
+  'examandfinishexam.login.signup': '註冊賬戶',
+  'examandfinishexam.login.login': '登錄',
+  'examandfinishexam.register.register': '註冊',
+  'examandfinishexam.register.get-verification-code': '獲取驗證碼',
+  'examandfinishexam.register.sign-in': '使用已有賬戶登錄',
+  'examandfinishexam.register-result.msg': '妳的賬戶：{email} 註冊成功',
+  'examandfinishexam.register-result.activation-email':
+    '激活郵件已發送到妳的郵箱中，郵件有效期為24小時。請及時登錄郵箱，點擊郵件中的鏈接激活帳戶。',
+  'examandfinishexam.register-result.back-home': '返回首頁',
+  'examandfinishexam.register-result.view-mailbox': '查看郵箱',
+  'examandfinishexam.navBar.lang': '語言',
+};
